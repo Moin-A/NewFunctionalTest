@@ -46,6 +46,7 @@ npm install cypress --save-dev
 ```
 
 ![installing-cli e1693232](https://snipcart.com/media/203792/node-js-react-strapi-1.png)
+(https://snipcart.com/media/203936/webhooks-explained-1.jpg)
 
 
 ## Contributing
