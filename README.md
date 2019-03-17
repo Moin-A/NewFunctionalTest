@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  Fast, easy and reliable testing for anything that runs in a browser.
+ -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 [![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
 
-Install Cypress  for Mac, Linux, or Windows, then [get started](https://docs.cypress.io/guides/getting-started/installing-cypress.html). ------^#&^&#^&^#&^&^&@^&@^&@^#-------
+Install Cypress  for Mac, Linux, or Windows, -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 
 ```bash
 npm install cypress --save-dev
@@ -53,7 +53,7 @@ npm install cypress --save-dev
 - [![CircleCI](https://circleci.com/gh/cypress-io/cypress/tree/develop.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress/tree/develop) - `develop` branch
 - [![CircleCI](https://circleci.com/gh/cypress-io/cypress/tree/master.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress/tree/master) - `master` branch
 
-Please see our [Contributing Guideline](/CONTRIBUTING.md) which explains repo organization, linting, testing, and other steps. ---*&*&W*&W**W&W*&*&W**&W____
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
 
 ## License
 
@@ -63,7 +63,7 @@ This project is licensed under the terms-- of the-- --[This is randomtext for vi
 
 ## Badges
 
-Let the world know your project is using Cypress.io to test with this cool badge ---------------------^%#^%^%^%^%^%%
+Let the world know your project is using Cypress.io to test with this cool badge ---------------^%#^%^%^%^%^%%
 
 [![badge](https://img.shields.io/badge/cypress.io-tests-green.svg?style=flat-square)](https://cypress.io)
 
