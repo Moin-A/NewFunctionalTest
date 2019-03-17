@@ -45,7 +45,7 @@ Install Cypress  for Mac, Linux, or Windows, then [get started](https://docs.cyp
 npm install cypress --save-dev
 ```
 
-![installing-cli e1693232](https://cdn-images-1.medium.com/max/1200/1*IrV85j4bpBjZocD5jVnCHQ.jpeg)
+![installing-cli e1693232](https://img.youtube.com/vi/7N63cMKosIE/maxresdefault.jpg)
 
 
 ## Contributing
