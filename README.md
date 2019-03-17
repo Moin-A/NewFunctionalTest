@@ -45,7 +45,7 @@ Install Cypress  for Mac, Linux, or Windows, then [get started](https://docs.cyp
 npm install cypress --save-dev
 ```
 
-![installing-cli e1693232](https://img.youtube.com/vi/7N63cMKosIE/maxresdefault.jpg)
+![installing-cli e1693232](https://snipcart.com/media/203792/node-js-react-strapi-1.png)
 
 
 ## Contributing
