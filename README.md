@@ -39,13 +39,13 @@
 
 [![npm version](https://badge.fury.io/js/cypress.svg)](https://badge.fury.io/js/cypress)
 
-Install Cypress for Mac, Linux, or Windows, then [get started](https://docs.cypress.io/guides/getting-started/installing-cypress.html).
+Install Cypress  for Mac, Linux, or Windows, then [get started](https://docs.cypress.io/guides/getting-started/installing-cypress.html). ------^#&^&#^&^#&^&^&@^&@^&@^#-------
 
 ```bash
 npm install cypress --save-dev
 ```
 
-![installing-cli e1693232](https://user-images.githubusercontent.com/1271364/31740846-7bf607f0-b420-11e7-855f-41c996040d31.gif)
+![installing-cli e1693232](https://cdn-images-1.medium.com/max/1200/1*IrV85j4bpBjZocD5jVnCHQ.jpeg)
 
 
 ## Contributing
@@ -53,17 +53,17 @@ npm install cypress --save-dev
 - [![CircleCI](https://circleci.com/gh/cypress-io/cypress/tree/develop.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress/tree/develop) - `develop` branch
 - [![CircleCI](https://circleci.com/gh/cypress-io/cypress/tree/master.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress/tree/master) - `master` branch
 
-Please see our [Contributing Guideline](/CONTRIBUTING.md) which explains repo organization, linting, testing, and other steps.
+Please see our [Contributing Guideline](/CONTRIBUTING.md) which explains repo organization, linting, testing, and other steps. ---*&*&W*&W**W&W*&*&W**&W____
 
 ## License
 
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/cypress-io/cypress/blob/master/LICENSE.md)
 
-This project is licensed under the terms of the [MIT license](/LICENSE.md).
+This project is licensed under the terms-- of the-- --[This is randomtext for visual Regression Testing]] [MIT license](/LICENSE.md).
 
 ## Badges
 
-Let the world know your project is using Cypress.io to test with this cool badge
+Let the world know your project is using Cypress.io to test with this cool badge ---------------------^%#^%^%^%^%^%%
 
 [![badge](https://img.shields.io/badge/cypress.io-tests-green.svg?style=flat-square)](https://cypress.io)
 
