@@ -2,11 +2,12 @@
             describe('Visual regression for elements in hotnews section', () => {
               beforeEach(() => {
               cy.viewport("macbook-15")
+              cy.wait(5000)
               
               })
               it('Take the screenshot of entire hot-news section in prod env', () => {
-              cy.visit("/hot-news")  
-              
+              cy.visit('/')
+              cy.visit('/hot-news')
               cy.get("#container").matchImageSnapshot('Hot-news',{coverage: 'fullpage'})
               })
               it('compare the screenshot of the hotnews section with the one taken in beta env', () => {

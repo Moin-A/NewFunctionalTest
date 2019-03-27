@@ -16,10 +16,7 @@
                 cy.get('#container').matchImageSnapshot('election-subsection-page',{coverage: "fullpage"})
                 })
                 })
-    
-
-
-
+                
 
     
                 
